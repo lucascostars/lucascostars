@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Lucas Costa 👋
 
-<!--
-**lucascostars/lucascostars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Computação na Universidade do Estado do Amazonas (UEA)**, em Manaus.
 
-Here are some ideas to get you started:
+Aqui compartilho projetos para aprofundar meus conhecimentos em programação, algoritmos e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos aplicados em projetos
+
+- **C:** matrizes, funções e controle de fluxo.
+- **Algoritmos:** recursão, busca em árvore e Minimax.
+- **Testes:** exploração exaustiva de sequências de jogadas.
+
+## Projeto em destaque
+
+### Jogo da Velha com Minimax
+
+Jogo para terminal desenvolvido em C, com adversário computacional baseado no algoritmo Minimax.
+
+Inclui documentação de execução e um teste que explora **642 partidas contra a estratégia determinística do computador**, sem derrotas da IA.
+
+[Ver meus repositórios](https://github.com/lucascostars?tab=repositories)
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/lucascostars)
